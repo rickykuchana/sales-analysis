@@ -1,0 +1,21 @@
+order_id,product,category,region,quantity,price,order_date
+1001,Laptop,Electronics,Northeast,2,1200.00,2026-01-05
+1002,Desk Chair,Furniture,Southeast,5,150.00,2026-01-08
+1003,Monitor,Electronics,Northeast,3,300.00,2026-01-12
+1004,Standing Desk,Furniture,West,1,450.00,2026-01-15
+1005,Keyboard,Electronics,Midwest,10,80.00,2026-01-18
+1006,Laptop,Electronics,West,1,1200.00,2026-01-22
+1007,Bookshelf,Furniture,Northeast,2,200.00,2026-01-25
+1008,Mouse,Electronics,Southeast,15,25.00,2026-02-01
+1009,Desk Chair,Furniture,Midwest,4,150.00,2026-02-04
+1010,Monitor,Electronics,West,5,300.00,2026-02-09
+1011,Laptop,Electronics,Southeast,3,1200.00,2026-02-14
+1012,Filing Cabinet,Furniture,Northeast,2,180.00,2026-02-18
+1013,Keyboard,Electronics,West,8,80.00,2026-02-22
+1014,Standing Desk,Furniture,Midwest,2,450.00,2026-02-25
+1015,Monitor,Electronics,Southeast,4,300.00,2026-03-02
+1016,Mouse,Electronics,Northeast,20,25.00,2026-03-06
+1017,Bookshelf,Furniture,West,3,200.00,2026-03-10
+1018,Laptop,Electronics,Midwest,2,1200.00,2026-03-14
+1019,Desk Chair,Furniture,Northeast,6,150.00,2026-03-18
+1020,Filing Cabinet,Furniture,Southeast,1,180.00,2026-03-22

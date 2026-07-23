@@ -21,3 +21,6 @@ df["Model"] = df["Model"].str.strip().str.upper()
 
 print(df["Make"].unique())
 
+print(df.shape)                          # total rows, columns
+print(df["NHTSACampaignNumber"].nunique())   # unique campaigns
+print(df.isnull().sum())                 # null count per column
